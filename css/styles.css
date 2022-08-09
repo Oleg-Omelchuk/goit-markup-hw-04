@@ -243,6 +243,7 @@ header {
 .about {
   background-color: var(--bgc-main-color);
   color: var(--main-text-color);
+  padding-bottom: 0;
 }
 .about-list {
   display: flex;
