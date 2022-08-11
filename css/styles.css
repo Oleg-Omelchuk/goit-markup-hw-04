@@ -171,12 +171,12 @@ header {
   fill: var(--main-icons-color);
 }
 
-.header-link:hover,
-.header-link:focus {
+.contacts-link:hover,
+.contacts-link:focus {
   color: #2196f3;
 }
-.header-link:hover .header-icon,
-.header-link:focus .header-icon {
+.contacts-link:hover .header-icon,
+.contacts-link:focus .header-icon {
   fill: #2196f3;
 }
 .nav-link {
